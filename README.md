@@ -2,7 +2,7 @@
 ## Project Overview
 This project focuses on analyzing sales data to extract valuable insights. The analysis is performed using Python, and the code is presented in a Jupyter Notebook. The dataset includes various attributes related to sales.
 
-# Dashboard Overview
+# Dashboard Overview (Tableau)
 - Link to the dashboard : https://public.tableau.com/app/profile/dafa.aulia/viz/SalesAnalysisDashboard_17236119471410/Dashboard1
 ![Dashboard](https://github.com/user-attachments/assets/c5f5817f-a631-4559-a8d5-ddfd5c94aceb)
 
